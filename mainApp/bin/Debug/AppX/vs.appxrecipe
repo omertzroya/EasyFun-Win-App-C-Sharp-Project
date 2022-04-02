@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FORREST</Machine>
+    <WindowsUser>tomer</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>54cdd8e0-e272-4900-b37c-ca12f7065d9b</PackageIdentityName>
+    <RegisteredManifestChecksum>AFAC6DFC1C482513ADC5E4582CFCDE3BB785EF62E25EC9A11894D37E6A2E9FC4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>54cdd8e0-e272-4900-b37c-ca12f7065d9b_1.0.0.0_neutral__4sff211dhfa66</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>54cdd8e0-e272-4900-b37c-ca12f7065d9b_4sff211dhfa66!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>54cdd8e0-e272-4900-b37c-ca12f7065d9b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=tomer</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-03T13:21:00.032</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Debug\mainApp.exe">
+      <PackagePath>mainApp.exe</PackagePath>
+      <Modified>2014-05-03T13:20:59.705</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\1300.wav">
+      <PackagePath>Assets\1300.wav</PackagePath>
+      <Modified>2014-04-26T19:33:13.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\329.628.wav">
+      <PackagePath>Assets\329.628.wav</PackagePath>
+      <Modified>2014-04-26T18:20:25.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\554.365.wav">
+      <PackagePath>Assets\554.365.wav</PackagePath>
+      <Modified>2014-04-26T18:20:25.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\659.255.wav">
+      <PackagePath>Assets\659.255.wav</PackagePath>
+      <Modified>2014-04-26T18:20:25.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\880.wav">
+      <PackagePath>Assets\880.wav</PackagePath>
+      <Modified>2014-04-26T18:20:25.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\900.wav">
+      <PackagePath>Assets\900.wav</PackagePath>
+      <Modified>2014-04-26T19:33:13.464</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\Balloon Popping.wav">
+      <PackagePath>Assets\Balloon Popping.wav</PackagePath>
+      <Modified>2014-04-27T16:25:47.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\drum.wav">
+      <PackagePath>Assets\drum.wav</PackagePath>
+      <Modified>2014-04-29T15:39:34.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\guitar.wav">
+      <PackagePath>Assets\guitar.wav</PackagePath>
+      <Modified>2014-04-29T15:42:22.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\piano.wav">
+      <PackagePath>Assets\piano.wav</PackagePath>
+      <Modified>2014-04-29T15:44:41.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\AirBalloon.png">
+      <PackagePath>Assets\AirBalloon.png</PackagePath>
+      <Modified>2014-04-15T16:04:04.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\Balloon.png">
+      <PackagePath>Assets\Balloon.png</PackagePath>
+      <Modified>2014-04-15T15:52:40.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\balloons.png">
+      <PackagePath>Assets\balloons.png</PackagePath>
+      <Modified>2014-04-30T13:30:26.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\BalloonsBackground.png">
+      <PackagePath>Assets\BalloonsBackground.png</PackagePath>
+      <Modified>2014-04-15T15:40:58.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\band.png">
+      <PackagePath>Assets\band.png</PackagePath>
+      <Modified>2014-04-30T13:30:27.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\drums.png">
+      <PackagePath>Assets\drums.png</PackagePath>
+      <Modified>2014-04-30T13:31:01.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\flutte.png">
+      <PackagePath>Assets\flutte.png</PackagePath>
+      <Modified>2014-04-30T13:30:49.538</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\guitar.png">
+      <PackagePath>Assets\guitar.png</PackagePath>
+      <Modified>2014-04-30T13:30:48.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\home.png">
+      <PackagePath>Assets\home.png</PackagePath>
+      <Modified>2014-04-15T05:24:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\loading.png">
+      <PackagePath>Assets\loading.png</PackagePath>
+      <Modified>2014-05-01T14:03:01.931</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T14:07:13.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\menu.png">
+      <PackagePath>Assets\menu.png</PackagePath>
+      <Modified>2014-05-01T14:02:58.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\nute.png">
+      <PackagePath>Assets\nute.png</PackagePath>
+      <Modified>2014-04-30T13:30:57.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\pause.png">
+      <PackagePath>Assets\pause.png</PackagePath>
+      <Modified>2014-04-30T13:30:54.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\piano.png">
+      <PackagePath>Assets\piano.png</PackagePath>
+      <Modified>2014-04-30T13:30:47.610</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\play.png">
+      <PackagePath>Assets\play.png</PackagePath>
+      <Modified>2014-05-03T09:36:03.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\record.png">
+      <PackagePath>Assets\record.png</PackagePath>
+      <Modified>2014-04-30T13:30:50.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\simon.png">
+      <PackagePath>Assets\simon.png</PackagePath>
+      <Modified>2014-04-30T13:30:25.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T14:07:17.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T14:02:58.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T14:02:59.541</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T14:03:00.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T14:07:16.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T14:07:13.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\stop.png">
+      <PackagePath>Assets\stop.png</PackagePath>
+      <Modified>2014-04-30T13:30:55.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\voice.png">
+      <PackagePath>Assets\voice.png</PackagePath>
+      <Modified>2014-04-15T05:25:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T14:07:14.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\flutter.mp3">
+      <PackagePath>Assets\flutter.mp3</PackagePath>
+      <Modified>2014-04-29T15:46:20.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\TextFile1.txt">
+      <PackagePath>Assets\TextFile1.txt</PackagePath>
+      <Modified>2014-05-01T14:55:56.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-04-26T14:42:14.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Debug\balloons.xbf">
+      <PackagePath>balloons.xbf</PackagePath>
+      <Modified>2014-05-01T08:42:22.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Debug\BlankPage1.xbf">
+      <PackagePath>BlankPage1.xbf</PackagePath>
+      <Modified>2014-05-03T13:20:59.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Debug\MainMenu.xbf">
+      <PackagePath>MainMenu.xbf</PackagePath>
+      <Modified>2014-05-03T13:20:59.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Debug\PlayPage.xbf">
+      <PackagePath>PlayPage.xbf</PackagePath>
+      <Modified>2014-05-03T13:20:59.354</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Debug\SettingsFlyout1.xbf">
+      <PackagePath>SettingsFlyout1.xbf</PackagePath>
+      <Modified>2014-05-03T13:20:59.357</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Debug\SimonPage.xbf">
+      <PackagePath>SimonPage.xbf</PackagePath>
+      <Modified>2014-05-01T07:34:46.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-05-03T13:20:59.834</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

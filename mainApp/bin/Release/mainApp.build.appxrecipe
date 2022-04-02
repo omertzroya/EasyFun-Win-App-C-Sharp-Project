@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FORREST</Machine>
+    <WindowsUser>tomer</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>54cdd8e0-e272-4900-b37c-ca12f7065d9b</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Release\mainApp.exe">
+      <PackagePath>mainApp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\1300.wav">
+      <PackagePath>Assets\1300.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\329.628.wav">
+      <PackagePath>Assets\329.628.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\554.365.wav">
+      <PackagePath>Assets\554.365.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\659.255.wav">
+      <PackagePath>Assets\659.255.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\880.wav">
+      <PackagePath>Assets\880.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\900.wav">
+      <PackagePath>Assets\900.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\Balloon Popping.wav">
+      <PackagePath>Assets\Balloon Popping.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\drum.wav">
+      <PackagePath>Assets\drum.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\guitar.wav">
+      <PackagePath>Assets\guitar.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\piano.wav">
+      <PackagePath>Assets\piano.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\Balloon.png">
+      <PackagePath>Assets\Balloon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\balloons.png">
+      <PackagePath>Assets\balloons.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\BalloonsBackground.png">
+      <PackagePath>Assets\BalloonsBackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\band.png">
+      <PackagePath>Assets\band.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\drums.png">
+      <PackagePath>Assets\drums.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\flutte.png">
+      <PackagePath>Assets\flutte.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\guitar.png">
+      <PackagePath>Assets\guitar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\home.png">
+      <PackagePath>Assets\home.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\loading.png">
+      <PackagePath>Assets\loading.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\menu.png">
+      <PackagePath>Assets\menu.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\nute.png">
+      <PackagePath>Assets\nute.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\pause.png">
+      <PackagePath>Assets\pause.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\piano.png">
+      <PackagePath>Assets\piano.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\play.png">
+      <PackagePath>Assets\play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\plus.png">
+      <PackagePath>Assets\plus.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\record.png">
+      <PackagePath>Assets\record.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\simon.png">
+      <PackagePath>Assets\simon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\stop.png">
+      <PackagePath>Assets\stop.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\voice.png">
+      <PackagePath>Assets\voice.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\Assets\flutter.mp3">
+      <PackagePath>Assets\flutter.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Release\balloons.xbf">
+      <PackagePath>balloons.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Release\BlankPage1.xbf">
+      <PackagePath>BlankPage1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Release\MainMenu.xbf">
+      <PackagePath>MainMenu.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Release\PlayPage.xbf">
+      <PackagePath>PlayPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Release\SettingsFlyout1.xbf">
+      <PackagePath>SettingsFlyout1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Release\SimonPage.xbf">
+      <PackagePath>SimonPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Users\tomer\Documents\Visual Studio 2013\Projects\issieApp\mainApp\mainApp\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

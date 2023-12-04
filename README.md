@@ -19,8 +19,8 @@ EASYFUN app is a native application developed in collaboration with Microsoft I4
 ## Screenshots
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; text-align: center;">
-        <img src="Screenshots1/Screenshots1.png" width="300" alt="Screenshot 1">
-       <img src="Screenshots1/Screenshots2.png" width="300" alt="Screenshot 2">
+        <img src="Screenshots1.jpg" width="300" alt="Screenshot 1">
+ 
 </div>
 
 ## Contributing

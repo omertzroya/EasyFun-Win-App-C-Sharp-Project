@@ -19,8 +19,8 @@ EASYFUN app is a native application developed in collaboration with Microsoft I4
 ## Screenshots
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; text-align: center;">
-        <img src="public/images/Screenshots1.png" width="300" alt="Screenshot 1">
-       <img src="public/images/Screenshots2.png" width="300" alt="Screenshot 2">
+        <img src="Screenshots1/Screenshots1.png" width="300" alt="Screenshot 1">
+       <img src="Screenshots1/Screenshots2.png" width="300" alt="Screenshot 2">
 </div>
 
 ## Contributing
@@ -30,9 +30,6 @@ Feel free to contribute to the project by opening issues or creating pull reques
 ![GitHub](https://img.shields.io/github/license/ItsAlexanderPopov/Simon-game)
 
 
----
-
-Enjoy exploring NBA scores with this web app! If you have any issues or suggestions, please open an issue in the GitHub repository.
 
 
 
